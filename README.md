@@ -9,7 +9,7 @@ To set up and run the Modern_Todo development server:
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/mohitsingh4716/Modern_Todo.git
    ```
 2. Install NPM packages
    ```sh
