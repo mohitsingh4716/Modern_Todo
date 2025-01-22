@@ -14,10 +14,11 @@ To set up and run the Modern_Todo development server:
 2. Install NPM packages
    ```sh
    npm install
-( Use the appropriate package manager to install dependencies.)
+    ```
 3. Start the development server:
    ```sh
    npm run dev 
+    ```
 
  Start the development server.
  Open [ http://localhost:5173/]( http://localhost:5173/) in your browser to access the application.
@@ -48,11 +49,7 @@ For more details on the technologies used:
 
 Modern_Todo is deployed on the [Netlify Platform](https://app.netlify.com//), which provides seamless deployment and scaling for  applications. You can view the live site [here](https://modern-todo-web.netlify.app/).
 
-
 ## Screenshots
-[![Product1 Name Screen Shot][product1-screenshot]](https://example.com)
-[![Product2 Name Screen Shot][product2-screenshot]](https://example.com)
-[![Product3 Name Screen Shot][product3-screenshot]](https://example.com)
-[product1-screenshot]: public/images/start.png
-[product2-screenshot]: public/images/task.png
-[product3-screenshot]: public/images/comp.png
+[![Product1 Name Screen Shot](./public/images/start.png)](https://example.com)
+[![Product2 Name Screen Shot](./public/images/task.png)](https://example.com)
+[![Product3 Name Screen Shot](./public/images/comp.png)](https://example.com)
